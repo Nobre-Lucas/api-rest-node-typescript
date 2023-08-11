@@ -7,4 +7,4 @@ server.get('/', (_, res) => {
     return res.send('Olá, dev!');
 });
 
-export { server }
+export { server };
